@@ -15,3 +15,11 @@ do add the full address of the repo after clone.
 
 ## Git Branch
 `git branch` is used to see list of available branch on local repository
+
+## Git reset
+`git reset` --hard origin/master
+is used when you want to ignore all locat stuff and get exact remote copy without error issues.
+
+## Git remote
+to change the remote to SSH instead of HTTPS etc
+`git remote set-url origin` SSH repo address pasted here(from git) 
