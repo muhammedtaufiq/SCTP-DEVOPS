@@ -2,6 +2,7 @@
 
 ## Git Clone
 `git clone` is used for just downloading exactly what is currently working on the remote server repository and saving it in your machine's folder where that project is placed. (Only one time)
+do add the full address of the repo after clone.
 
 ## Git Fetch
 `git fetch` just "downloads" the changes from the remote to your local repository. 
